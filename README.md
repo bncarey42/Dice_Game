@@ -1,6 +1,7 @@
 # Dice_Game
 This program simulates a simple game of street dice.
-The rules are as follows
+The rules are as follows:
+        
         1. Place a bet.
         2. On the first roll if a 7 or 11 is rolled, YOU WIN!
             However, if a 2, 3, or 12 is rolled YOU LOSE.
